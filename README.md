@@ -23,4 +23,5 @@ Special user-defined tags are wrapped in `{}`. Anything can be within this.
 ## Example ##
 This is my actual todo list that I use.
 
-![Example](https://raw.githubusercontent.com/Puzomor/todo.vim/master/nvim-qt_2018-03-05_10-26-03.png)
+![Example](https://raw.githubusercontent.com/Puzomor/todo.vim/master/nvim-qt_2018-03-05_10-29-50.png)
+![Colorscheme: seoul256](https://github.com/junegunn/seoul256.vim)
